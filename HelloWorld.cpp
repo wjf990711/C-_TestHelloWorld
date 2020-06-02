@@ -1,23 +1,23 @@
-#include <iostream>
+ï»¿#include <iostream>
 using namespace std;
 
-//³£Á¿¶¨Òå·½Ê½1
-//#define ºê³£Á¿
-//³£Á¿¶¨Òå·½Ê½2
-//constĞŞÊÎµÄ±äÁ¿
-//ÔÚ¸ø±äÁ¿ÆğÃûÊ±²»ÒªÊ¹ÓÃC++µÄ¹Ø¼ü×Ö
+//å¸¸é‡å®šä¹‰æ–¹å¼1
+//#define å®å¸¸é‡
+//å¸¸é‡å®šä¹‰æ–¹å¼2
+//constä¿®é¥°çš„å˜é‡
+//åœ¨ç»™å˜é‡èµ·åæ—¶ä¸è¦ä½¿ç”¨C++çš„å…³é”®å­—
 
 #define Day 7
 
 int main()
 {
 	int a;
-	const int month = 12;	//constĞŞÊÎµÄ±äÁ¿±»³ÆÎª³£Á¿
+	const int month = 12;	//constä¿®é¥°çš„å˜é‡è¢«ç§°ä¸ºå¸¸é‡
 
 	a = 10;
 
-	//cout << Day << "Ìì" << endl;
-	//cout << month << "ÔÂ" << endl;
+	//cout << Day << "å¤©" << endl;
+	//cout << month << "æœˆ" << endl;
 
 
 	cout << "a = " << a << endl;
