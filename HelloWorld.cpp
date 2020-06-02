@@ -1,4 +1,5 @@
 ﻿#include <iostream>
+#include "sizeof.cpp";
 using namespace std;
 
 //常量定义方式1
@@ -21,6 +22,10 @@ int main()
 
 
 	cout << "a = " << a << endl;
+
+	class student t1;
+	t1.test_1();
+
 
 	system("pause");
 
