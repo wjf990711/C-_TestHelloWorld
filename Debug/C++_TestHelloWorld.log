@@ -1,7 +1,12 @@
-﻿  HelloWorld.cpp
+﻿  cin.cpp
+g:\notebook\study\c++\c++_testhelloworld\c++_testhelloworld\cin.cpp(1): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  HelloWorld.cpp
 g:\notebook\study\c++\c++_testhelloworld\c++_testhelloworld\helloworld.cpp(2): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
 g:\notebook\study\c++\c++_testhelloworld\c++_testhelloworld\sizeof.cpp(1): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
-  sizeof.cpp
-g:\notebook\study\c++\c++_testhelloworld\c++_testhelloworld\sizeof.cpp(1): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+g:\notebook\study\c++\c++_testhelloworld\c++_testhelloworld\helloworld.cpp(3): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+g:\notebook\study\c++\c++_testhelloworld\c++_testhelloworld\转义字符.cpp(1): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+g:\notebook\study\c++\c++_testhelloworld\c++_testhelloworld\helloworld.cpp(4): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+g:\notebook\study\c++\c++_testhelloworld\c++_testhelloworld\cin.cpp(1): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+g:\notebook\study\c++\c++_testhelloworld\c++_testhelloworld\helloworld.cpp(5): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
   正在生成代码...
   C++_TestHelloWorld.vcxproj -> G:\Notebook\study\C++\C++_TestHelloWorld\Debug\C++_TestHelloWorld.exe

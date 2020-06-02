@@ -21,5 +21,11 @@
     <ClCompile Include="sizeof.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="转义字符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cin.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

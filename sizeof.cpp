@@ -1,7 +1,7 @@
 ﻿#include <iostream>;
 using namespace std;
 
-class student
+class student1
 {
 	public:
 
