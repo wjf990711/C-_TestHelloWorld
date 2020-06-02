@@ -117,6 +117,7 @@
   <ItemGroup>
     <ClCompile Include="cin.cpp" />
     <ClCompile Include="HelloWorld.cpp" />
+    <ClCompile Include="if.cpp" />
     <ClCompile Include="sizeof.cpp" />
     <ClCompile Include="转义字符.cpp" />
   </ItemGroup>

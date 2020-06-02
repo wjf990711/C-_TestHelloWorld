@@ -1,7 +1,8 @@
 ﻿#include <iostream>
 #include "sizeof.cpp";
 #include "转义字符.cpp";
-#include "cin.cpp";
+//#include "cin.cpp";
+#include "if.cpp";
 #include <string>;
 using namespace std;
 
@@ -38,8 +39,11 @@ int main()
 	class student2 t2;
 	t2.test_2();
 
-	class student3 t3;
-	t3.test_3();
+	//class student3 t3;
+	//t3.test_3();
+
+	class student4 t4;
+	t4.test_4();
 
 
 	system("pause");
