@@ -9,13 +9,8 @@ g:\notebook\study\c++\c++_testhelloworld\c++_testhelloworld\3pigs.cpp(9): warnin
 g:\notebook\study\c++\c++_testhelloworld\c++_testhelloworld\3pigs.cpp(10): warning C4305: “初始化”: 从“double”到“float”截断
 g:\notebook\study\c++\c++_testhelloworld\c++_testhelloworld\3pigs.cpp(11): warning C4305: “初始化”: 从“double”到“float”截断
 g:\notebook\study\c++\c++_testhelloworld\c++_testhelloworld\example[].cpp(1): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
-g:\notebook\study\c++\c++_testhelloworld\c++_testhelloworld\caishuzi.cpp(1): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
-g:\notebook\study\c++\c++_testhelloworld\c++_testhelloworld\caishuzi.cpp(2): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
-g:\notebook\study\c++\c++_testhelloworld\c++_testhelloworld\caishuzi.cpp(11): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
 g:\notebook\study\c++\c++_testhelloworld\c++_testhelloworld\helloworld.cpp(9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
-  caishuzi.cpp
-g:\notebook\study\c++\c++_testhelloworld\c++_testhelloworld\caishuzi.cpp(1): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
-g:\notebook\study\c++\c++_testhelloworld\c++_testhelloworld\caishuzi.cpp(2): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
-g:\notebook\study\c++\c++_testhelloworld\c++_testhelloworld\caishuzi.cpp(11): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  example[].cpp
+g:\notebook\study\c++\c++_testhelloworld\c++_testhelloworld\example[].cpp(1): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
   正在生成代码...
   C++_TestHelloWorld.vcxproj -> G:\Notebook\study\C++\C++_TestHelloWorld\Debug\C++_TestHelloWorld.exe

@@ -5,7 +5,7 @@
 //#include "if.cpp";
 #include "3pigs.cpp";
 #include "example[].cpp"
-#include "caishuzi.cpp"
+//#include "caishuzi.cpp"
 #include <string>;
 using namespace std;
 
@@ -54,8 +54,8 @@ int main()
 	class student6 t6;
 	t6.test_6();
 
-	class student7 t7;
-	t7.test_7();
+	//class student7 t7;
+	//t7.test_7();
 
 
 
