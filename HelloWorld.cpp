@@ -1,8 +1,11 @@
 ﻿#include <iostream>
 #include "sizeof.cpp";
-#include "转义字符.cpp";
+#include "zhuanyi.cpp";
 //#include "cin.cpp";
-#include "if.cpp";
+//#include "if.cpp";
+#include "3pigs.cpp";
+#include "example[].cpp"
+#include "caishuzi.cpp"
 #include <string>;
 using namespace std;
 
@@ -42,8 +45,18 @@ int main()
 	//class student3 t3;
 	//t3.test_3();
 
-	class student4 t4;
-	t4.test_4();
+	//class student4 t4;
+	//t4.test_4();
+
+	class student5 t5;
+	t5.test_5();
+
+	class student6 t6;
+	t6.test_6();
+
+	class student7 t7;
+	t7.test_7();
+
 
 
 	system("pause");

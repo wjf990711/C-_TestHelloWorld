@@ -115,11 +115,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="3pigs.cpp" />
+    <ClCompile Include="caishuzi.cpp" />
     <ClCompile Include="cin.cpp" />
+    <ClCompile Include="example[].cpp" />
     <ClCompile Include="HelloWorld.cpp" />
     <ClCompile Include="if.cpp" />
     <ClCompile Include="sizeof.cpp" />
-    <ClCompile Include="转义字符.cpp" />
+    <ClCompile Include="zhuanyi.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
